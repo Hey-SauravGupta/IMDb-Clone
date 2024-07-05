@@ -1,0 +1,21 @@
+1 project Description : IMDB clone
+
+we will be creating on IMDB clone, whare we will featch real time trending movies data and will show it in grid formate, we will be desingining the whole apllication by using Tailwind css.
+
+
+Features :
+1. user will be able to view all the latest and tranding movies.
+
+2. user can create this own Seprated watchList.
+
+3. sort movies accoding to rating.
+
+4. filter movies accoding to genres.
+
+5. pagination will be impliment to move from one page to another page and update the page data.
+
+6. searching of movies
+
+7.we be deployed this movies app on the movies app on the netlify.
+
+Tailwand css: Tailwand is A css Framewark whare you will get already written css class whicha you can use to design your application.
